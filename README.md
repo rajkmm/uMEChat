@@ -29,11 +29,3 @@
 :------------------------------------------:|:-------------------------------------------:|:----------------------------------------:
  <img src="myFiles/intro.png" width="200"> | <img src="myFiles/home_n.png" width="200">  |  <img src="myFiles/request_page.png" width="200">
 
-
-
-
-
-
-
->_university project of BU_
-
