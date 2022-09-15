@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045698729787",
+    "firebase_url": "https://rkmm-6fd15.firebaseio.com",
+    "project_id": "rkmm-6fd15",
+    "storage_bucket": "rkmm-6fd15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045698729787:android:7b654174ceacb085c8091e",
+        "android_client_info": {
+          "package_name": "com.infobox.hasnat.ume.ume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045698729787-agbkcodo787rsn1cq7c71o7dokk2v15u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpxVY8c9oN_RJNHx8qhjO3BeikEKgmTg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045698729787-agbkcodo787rsn1cq7c71o7dokk2v15u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
