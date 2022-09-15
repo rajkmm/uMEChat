@@ -1,5 +1,4 @@
-# *uMe*
-> _urgent messages_
+# *uMeChat*
 
 ### features for learner / developer-
 * Optimized Splash Screen
@@ -20,9 +19,7 @@
 * Searching Mechanism
 * Broadcast Receiver for Network Connectivity 
 
->with full UI design
 
-[Download APK](https://github.com/TheHasnatBD/uMe/blob/master/myFiles/app-debug-new.zip)
 #### Some Screenshots of this app
 
  Intro Slider                               | Home                                        | Friend Request UI 
