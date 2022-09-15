@@ -29,9 +29,6 @@
 :------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
  <img src="myFiles/intro.png" width="200"> | <img src="myFiles/home_n.png" width="200">  |<img src="myFiles/my_profile.png" width="200">|<img src="myFiles/request_page.png" width="200">
 
- Search a person                           | Friend List                             | When someone send request                       | LIVE CHATTING in uMe
-:-----------------------------------------:|:--------------------------------------------:|:-----------------------------------------------:|:-------------------------------------:
- <img src="myFiles/search.png" width="200">| <img src="myFiles/friends.png" width="200">|<img src="myFiles/n_new_request.png" width="200">|<img src="myFiles/12.chats.png" width="200">
 
 
 
