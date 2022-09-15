@@ -25,9 +25,9 @@
 [Download APK](https://github.com/TheHasnatBD/uMe/blob/master/myFiles/app-debug-new.zip)
 #### Some Screenshots of this app
 
- Intro Slider                               | Home                                        | Profile Settings 			                    | Friend Request UI 
-:------------------------------------------:|:-------------------------------------------:|:-----------------------------------------------:|:----------------------------------------:
- <img src="myFiles/intro.png" width="200"> | <img src="myFiles/home_n.png" width="200">  |<img src="myFiles/my_profile.png" width="200">|<img src="myFiles/request_page.png" width="200">
+ Intro Slider                               | Home                                        | Friend Request UI 
+:------------------------------------------:|:-------------------------------------------:|:----------------------------------------:
+ <img src="myFiles/intro.png" width="200"> | <img src="myFiles/home_n.png" width="200">  |  <img src="myFiles/request_page.png" width="200">
 
 
 
